@@ -19,6 +19,8 @@
     // Do any additional setup after loading the view.
     
     NSLog (@"Hello");
+    NSLog(@"Hi");
+    NSLog(@"Hi");
     
 }
 
